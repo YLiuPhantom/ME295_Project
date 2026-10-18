@@ -1,0 +1,9 @@
+# Data and documents
+*.dat
+*.docx
+
+# Local reference script
+YL_postprocess.py
+
+# Python
+__pycache__/
